@@ -36,7 +36,7 @@ Uses **React hooks**, **event handling**.
 
 ## 📁 Structure 
 
-src/
-├── App.js # 🧠 All main logic and UI (single component)
-├── App.css # 🎨 Basic styling (optional)
-├── index.js # ReactDOM entry point
+- src/
+- App.js # 🧠 All main logic and UI (single component)
+- App.css # 🎨 Basic styling (optional)
+- index.js # ReactDOM entry point
